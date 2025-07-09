@@ -24,7 +24,7 @@ section {
   }
 
   .hero-box .box img {
-    width: 200px;
+    width: 100%;
   }
 }
 
@@ -51,7 +51,7 @@ section {
 
 @media (max-width: 475px) {
   .about-box img {
-    width: 300px;
+    width: 100%;
   }
 }
 /* About */
